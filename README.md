@@ -1,4 +1,4 @@
-# 2022-Q2-PLN
+# 2022.Q2-PLN
 # Processamento de Linguagem Natural [2022.Q2]
 
 Prof. Alexandre Donizeti Alves
