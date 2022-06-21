@@ -9,3 +9,13 @@ UFABC [CMCC]
 ### **AULA 03 - Expressões Regulares**
 
 ##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_01.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2003/2022-Q2%20PLN%20Notebook%2001.ipynb)
+
+### **AULA 04 - Extração e Pré-processamento de Dados**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_02.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2004/2022_Q2_PLN_Notebook_02.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_03.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2004/2022_Q2_PLN_Notebook_03.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://drive.google.com/drive/folders/19WMti6LyQTR4XLGiVEZ5Oumz9BLJRr2e?usp=sharing) 
+
+
