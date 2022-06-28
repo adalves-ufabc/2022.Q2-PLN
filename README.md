@@ -26,6 +26,15 @@ UFABC [CMCC]
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2005/dados) 
 
+### **AULA 06 - Modelo de Linguagem com N-gramas**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_06.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2006/2022_Q2_PLN_Notebook_06.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_07.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2006/2022_Q2_PLN_Notebook_07.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2006/dados) 
+
+
 
 
 
