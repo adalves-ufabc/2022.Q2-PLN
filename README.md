@@ -34,6 +34,14 @@ UFABC [CMCC]
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2006/dados) 
 
+### **AULA 07 - Representação de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_08.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2007/2022_Q2_PLN_Notebook_08.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2007/dados) 
+
+
+
 
 
 
