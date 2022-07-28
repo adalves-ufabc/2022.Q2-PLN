@@ -48,6 +48,21 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_11.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2008/2022_Q2_PLN_Notebook_11.ipynb)
 
+### **AULA 13 - Classificação de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_12.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2013/2022_Q2_PLN_Notebook_12.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_13.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2013/2022_Q2_PLN_Notebook_13.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2013/dados) 
+
+### **AULA 14 - Análise de Sentimentos**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_14.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2014/2022_Q2_PLN_Notebook_14.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_15.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2014/2022_Q2_PLN_Notebook_15.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_16.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2014/2022_Q2_PLN_Notebook_16.ipynb)
 
 
 
