@@ -64,7 +64,11 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_16.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2014/2022_Q2_PLN_Notebook_16.ipynb)
 
+### **AULA 15 - Chatbots**
 
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_17.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2015/2022_Q2_PLN_Notebook_17.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_18.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2015/2022_Q2_PLN_Notebook_18.ipynb)
 
 
 
