@@ -70,5 +70,14 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_18.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2015/2022_Q2_PLN_Notebook_18.ipynb)
 
+### **AULA 16 - Modelagem de Tópicos**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_19.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2016/2022_Q2_PLN_Notebook_19.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_20.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2016/2022_Q2_PLN_Notebook_20.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_21.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2016/2022_Q2_PLN_Notebook_21.ipynb)
+
+
 
 
