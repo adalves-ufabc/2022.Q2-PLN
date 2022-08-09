@@ -78,6 +78,14 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_21.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2016/2022_Q2_PLN_Notebook_21.ipynb)
 
+### **AULA 18 - Similaridade de Textos**
 
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_22.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2018/2022_Q2_PLN_Notebook_22.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_23.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2018/2022_Q2_PLN_Notebook_23.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_24.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2018/2022_Q2_PLN_Notebook_24.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2018/dados) 
 
 
