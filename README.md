@@ -88,4 +88,22 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2018/dados) 
 
+### **AULA 20 - Sumarização de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_25.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_25.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_26.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_26.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_27.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_27.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_28.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_28.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_29.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_29.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_30.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_30.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_31.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_31.ipynb)
+
+
+
 
