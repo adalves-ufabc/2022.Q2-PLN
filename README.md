@@ -104,6 +104,22 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_31.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2020/2022_Q2_PLN_Notebook_31.ipynb)
 
+### **AULA 21 - Reconhecimento de Entidades Nomeadas**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_32.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2021/2022_Q2_PLN_Notebook_32.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_33.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2021/2022_Q2_PLN_Notebook_33.ipynb)
+
+### **AULA 22 - Sistema de Perguntas e Respostas**
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_34.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2022/2022_Q2_PLN_Notebook_34.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_35.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2022/2022_Q2_PLN_Notebook_35.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2022_Q2_PLN_Notebook_36.ipynb](https://github.com/adalves-ufabc/2022.Q2-PLN/blob/main/Aula%2022/2022_Q2_PLN_Notebook_36.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2022.Q2-PLN/tree/main/Aula%2022/dados) 
+
 
 
 
